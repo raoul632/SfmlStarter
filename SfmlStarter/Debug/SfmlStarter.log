@@ -1,0 +1,6 @@
+﻿  SfmlStarter.cpp
+C:\Users\sshpc\source\repos\SfmlStarter\SfmlStarter\SfmlStarter.cpp(34,14): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\sshpc\source\repos\SfmlStarter\SfmlStarter\SfmlStarter.cpp(35,14): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\sshpc\source\repos\SfmlStarter\SfmlStarter\SfmlStarter.cpp(61,17): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\sshpc\source\repos\SfmlStarter\SfmlStarter\SfmlStarter.cpp(62,17): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  SfmlStarter.vcxproj -> C:\Users\sshpc\source\repos\SfmlStarter\Debug\SfmlStarter.exe
